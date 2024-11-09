@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishwanath
-- 👀 I’m interested Active learner
+- 👀 I’m a interested Active learner
 - 🌱 I’m currently learning Programming languages such as java and python
 
 - Reach me at instagram @ vish_.nath
