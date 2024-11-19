@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Vishwanath
-- 👀 I’m a interested Active learner
-- 🌱 I’m currently learning Programming languages such as java and python
+ Hi, I’m Vishwananth
+ I’m a interested Active learner
+ Learnt C , CPP.
+ I’m currently learning Programming        languages such as java and python.
+
 
 - Reach me at instagram @ vish_.nath
 - Pronouns: He/Him
