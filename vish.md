@@ -4,8 +4,9 @@
  - I’m currently learning Programming        languages such as java and python.
 
 
-- Reach me at instagram @ vish_.nath
-              linkedin @Vishwanath Hesamani
+- Reach me at:
+- instagram @ vish_.nath
+           linkedin @Vishwanath Hesamani
 - Pronouns: He/Him
 
 <!---
