@@ -1,6 +1,6 @@
  - Hi, I’m Vishwananth
  - I’m a interested Active learner
- -  Learnt C , CPP.
+ -  Learnt C , CPP , SQL , HTML.
  - I’m currently learning Programming        languages such as java and python.
 
 
