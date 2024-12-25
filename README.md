@@ -1,5 +1,28 @@
-<h1 align="center">Hi 👋, I'm Vishwanath H</h1>
+ <head><style>
+        .animated-text {
+            font-size: 24px;
+            font-weight: bold;
+            display: inline-block;
+            position: relative;
+            animation: slide-in 3s ease-in-out infinite alternate;
+        }
+        @keyframes slide-in {
+            from {
+                transform: translateX(-100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+    </style></head>
+<body>
+    <h1 class="animated-text">Hi, I'm Vishwanath!</h1>
+  
 <h3 align="center">Active learner from India.</h3>
+
+</body>
 
 - 🌱 I’m currently learning **JAVA, CSS, React JS, Python.**
 
