@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishwanath</h1>
+<h1 align="center">Hi , I'm Vishwanath .H</h1>
 <h3 align="center">A passionate developer and lifelong learner</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java and React.js**
 - 📫 Reach me at **vishwahesamani@gmail.com**
-- ⚡ Fun fact: I love coding and coffee ☕!
+- ⚡ Fun fact: I love coding and sleep!
 
 ---
 
@@ -54,7 +54,7 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" />
   </a>
   <a href="www.linkedin.com/in/vishwanath-h-300b63251">
-    <img align="center" src="
+    <img align="center" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png">
 </p>
 
 ---
@@ -62,5 +62,5 @@
 ✨ **Special Thanks for Visiting!** ✨
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vishwanath/Vishwanath/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="[https://raw.githubusercontent.com/Vishwanath/Vishwanath/output/github-contribution-grid-snake.svg](https://gifdb.com/pacman)" alt="Snake Animation" />
 </p>
