@@ -1,64 +1,80 @@
-<h1 align="center">Hi 👋, I'm Vishwanath</h1>
-<h3 align="center">A passionate developer and lifelong learner</h3>
+# Hi there 👋, I'm Vishwanath H
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishwanath&label=Profile%20views&color=0e75b6&style=flat" alt="Vishwanath" />
-  <img src="https://img.shields.io/github/followers/Vishwanath?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </p>
 
----
-
-🌟 **About Me**
-
-- 🌱 I’m currently learning **Java and React.js**
-- 📫 Reach me at **vishwahesamani@gmail.com**
-- ⚡ Fun fact: I love coding and coffee ☕!
-
----
-
-💻 **Languages and Tools**
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-</p>
-
----
-
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishwanath&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwanath&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwanath&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-🎉 **Fun Animations**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding GIF" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=32A2F2&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+code+and+learn+new+things!" alt="Typing SVG" />
-</p>
-
----
-
-🌐 **Connect with Me**
-
-<p align="center">
-  <a href="mailto:vishwahesamani@gmail.com">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" />
+<h1 align="center">
+  <a href="#">
+    <span style="display:inline-block;animation:fadeIn 3s infinite;">
+      Vishwanath H
+    </span>
   </a>
+</h1>
+
+**Active learner from India.**
+
+🌱 I’m currently learning **JAVA, CSS, React JS, Python.**
+
+📫 How to reach me: **vishwahesamani@gmail.com**
+
+---
+
+<h2 align="center">Connect with me</h2>
+<p align="center">
+  <a href="https://github.com/yourusername" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30"></a>
 </p>
 
 ---
 
-✨ **Special Thanks for Visiting!** ✨
-
+<h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vishwanath/Vishwanath/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>
 </p>
+
+---
+
+<h2 align="center">Animated SVG Header</h2>
+<p align="center">
+  <img src="https://svgshare.com/i/jRm.svg" width="400" height="100" alt="animated header">
+</p>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Vishwanath's GitHub stats">
+</p>
+
+---
+
+<h2 align="center">Top Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.visitor-badge" alt="visitors">
+</p>
+
+<h2 align="center">Follow me on GitHub</h2>
+<p align="center">
+  <a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers"></a>
+</p>
+
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  50% { opacity: 0.5; }
+  100% { opacity: 1; }
+}
+</style>
