@@ -1,4 +1,5 @@
- <head><style>
+<!DOCTYPE html>
+<html lang="en"> <head><style>
         .animated-text {
             font-size: 24px;
             font-weight: bold;
@@ -22,7 +23,7 @@
   
 <h3 align="center">Active learner from India.</h3>
 
-</body>
+</body></html>
 
 - 🌱 I’m currently learning **JAVA, CSS, React JS, Python.**
 
