@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Vishwanath</h1>
 <h3 align="center">A passionate developer and lifelong learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=0e75b6&style=flat" alt="username" />
-  <img src="https://img.shields.io/github/followers/username?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Vishwanath&label=Profile%20views&color=0e75b6&style=flat" alt="Vishwanath" />
+  <img src="https://img.shields.io/github/followers/Vishwanath?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 🌟 **About Me**
 
 - 🌱 I’m currently learning **Java and React.js**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **vishwahesamani@gmail.com**
 - ⚡ Fun fact: I love coding and coffee ☕!
 
 ---
@@ -31,9 +31,9 @@
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishwanath&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwanath&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwanath&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -50,14 +50,8 @@
 🌐 **Connect with Me**
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
-  </a>
-  <a href="https://your-portfolio.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" />
+  <a href="mailto:vishwahesamani@gmail.com">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" />
   </a>
 </p>
 
@@ -66,5 +60,5 @@
 ✨ **Special Thanks for Visiting!** ✨
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Vishwanath/Vishwanath/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
