@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java and React.js**
 - 📫 Reach me at **vishwahesamani@gmail.com**
-- ⚡ Fun fact: I love coding and coffee ☕!
+- ⚡ Fun fact: I love coding and sleep!
 
 ---
 
@@ -42,7 +42,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding GIF" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=32A2F2&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+code+and+learn+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=32A2F2&center=true&width=435&lines=Welcome+to+my+GitHub!;             I+love+to+code+and+learn+new+things!" alt="Typing SVG" />
 </p>
 
 ---
@@ -63,5 +63,5 @@
 ✨ **Special Thanks for Visiting!** ✨
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vishwanath/Vishwanath/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif.svg" alt="Code Animation" />
 </p>
