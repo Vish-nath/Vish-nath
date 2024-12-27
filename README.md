@@ -12,7 +12,9 @@
   <img src="https://img.shields.io/github/followers/Vishwanath?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
+
 ---
+
 
 🌟 **About Me**
 
@@ -20,7 +22,9 @@
 - 📫 Reach me at **vishwahesamani@gmail.com**
 - ⚡ Fun fact: I love coding and sleep!
 
+
 ---
+
 
 💻 **Languages and Tools**
 
@@ -32,7 +36,9 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
 </p>
 
+
 ---
+
 
 📈 **GitHub Stats**
 
@@ -42,16 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwanath&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-🎉
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding GIF" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=32A2F2&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+code+and+learn+new+things!" alt="Typing SVG" />
-</p>
 
 ---
+
 
 🌐 **Connect with Me**
 
@@ -64,7 +63,9 @@
   </a>
 </p>
 
+
 ---
+
 
 ✨ **Special Thanks for Visiting!** ✨
 
