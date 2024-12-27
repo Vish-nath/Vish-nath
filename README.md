@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwanath</h1>
-<p align="center"><h3 align="center">&lines=A+passionate+developer+and+lifelong+learner</h3> alt="Typing SVG" /></p>
+<p align="center"><h3 align="center">&lines=A+passionate+developer and lifelong learner</h3>
+
+![Typing Animation](https://readme-typing-effect.herokuapp.com?font=Arial&size=24&duration=2000&pause=1000&color=000000&width=500&lines=Hello!+Welcome+to
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vishwanath&label=Profile%20views&color=0e75b6&style=flat" alt="Vishwanath" />
