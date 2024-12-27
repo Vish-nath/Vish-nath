@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwanath</h1>
-<p align="center"><h3 align="center">A passionate developer and lifelong learner</h3>
+<p align="center"><h3 align="center"color="blue">A passionate developer and lifelong learner</h3>
 
 
 <p align="center">
