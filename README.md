@@ -70,6 +70,12 @@
   <a href="https://www.linkedin.com/in/vishwanath-h-300b63251/">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
+<a
+href="https://www.facebook.com/profile.php?id=100079006017428&mibextid=ZbWKwL">
+<img align="center"
+src="https://images.app.goo.gl/aoHenLy8hWFPMn3M9.png"
+alt="Facebook"/>
+</a>
 </p>
 </tr>
 </td>
