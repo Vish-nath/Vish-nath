@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishwanath</h1>
 <p align="center"><h3 align="center" style="color: blue;">A passionate developer and lifelong learner</h3>
 
-<table>
-  <tr>
-  <td>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding GIF" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=32A2F2&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+code+and;sleep+a+lot!+" alt="Typing SVG" />
@@ -37,6 +28,7 @@
 
 💻 **Languages and Tools**
 
+<table>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
@@ -44,6 +36,7 @@
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
 </p>
+</table>
 
 
 ---
