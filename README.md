@@ -29,6 +29,8 @@
 💻 **Languages and Tools**
 
 <table>
+<tr>
+<td>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
@@ -36,6 +38,8 @@
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
 </p>
+</tr>
+</td>
 </table>
 
 
