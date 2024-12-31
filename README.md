@@ -60,6 +60,9 @@
 
 🌐 **Connect with Me**
 
+<table>
+<tr>
+<td>
 <p align="center">
   <a href="mailto:vishwahesamani@gmail.com">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" />
@@ -68,6 +71,9 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
+</tr>
+</td>
+</table>
 
 
 ---
