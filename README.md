@@ -73,7 +73,7 @@
 <a
 href="https://www.facebook.com/profile.php?id=100079006017428&mibextid=ZbWKwL">
 <img align="center"
-src="https://images.app.goo.gl/aoHenLy8hWFPMn3M9.png"
+src="https://images.app.goo.gl/aoHenLy8hWFPMn3M9"
 alt="Facebook"/>
 </a>
 </p>
