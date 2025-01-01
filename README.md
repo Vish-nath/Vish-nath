@@ -88,5 +88,5 @@ alt="Facebook"/>
 ✨ **Special Thanks for Visiting!** ✨
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif.svg" alt="Code Animation" />
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif.png" alt="Code Animation" />
 </p>
