@@ -88,5 +88,37 @@ alt="Facebook"/>
 ✨ **Special Thanks for Visiting!** ✨
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif.svg" alt="Code Animation" />
+  <img src="name: Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  generate_snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Generate the Snake Animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Vishwanath # Replace this with your GitHub username
+          outputs: dist/snake.svg
+
+      # Step 3: Push the Snake Animation to the Repository
+      - name: Push Snake Animation to Repository
+        run: |
+          mkdir -p assets
+          mv dist/snake.svg assets/snake.svg
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add assets/snake.svg
+          git commit -m "Update Snake Animation"
+          git push" />
 </p>
