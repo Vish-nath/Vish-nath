@@ -74,7 +74,7 @@ alt="GitHub Streak" />
 <a
 href="https://www.facebook.com/profile.php?id=100079006017428&mibextid=ZbWKwL">
 <img align="center"
-src="https://images.app.goo.gl/aoHenLy8hWFPMn3M9"
+src="https://images.app.goo.gl/aoHenLy8hWFPMn3M9.png"
 alt="Facebook"/>
 </a>
 </p>
