@@ -88,7 +88,15 @@ alt="Facebook"/>
 
 ✨ **Special Thanks for Visiting!** ✨
 
+# Welcome to My GitHub Profile!
+
 <p align="center">
+  <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+    <rect x="50" y="50" width="300" height="100" fill="lightblue">
+      <animate attributeName="x" from="50" to="150" dur="2s" repeatCount="indefinite" />
+      <animate attributeName="fill" from="lightblue" to="lightgreen" dur="2s" repeatCount="indefinite" />
+    </rect>
+    <text x="70" y="120" font-size="20" fill="black">Hello, I'm Vishwanath!</text<p align="center">
   <img src="name: Snake Animation
 
 on:
