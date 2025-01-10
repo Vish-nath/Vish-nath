@@ -121,5 +121,6 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add assets/snake.svg
           git commit -m "Update Snake Animation"
+
           git push" />
 </p>
