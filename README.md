@@ -90,7 +90,57 @@ alt="Facebook"/>
 
 # Welcome to My GitHub Profile!
 
+# Welcome to My GitHub Profile!
+
 <p align="center">
+  <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Rectangle -->
+    <rect x="50" y="50" width="300" height="100" fill="lightblue">
+      <animate 
+        attributeName="x" 
+        from="50" 
+        to="150" 
+        dur="2s" 
+        repeatCount="indefinite" 
+        begin="0s"
+      />
+      <animate 
+        attributeName="fill" 
+        from="lightblue" 
+        to="lightgreen" 
+        dur="2s" 
+        repeatCount="indefinite" 
+        begin="0s"
+      />
+    </rect>
+    
+    <!-- Moving Text -->
+    <text x="70" y="120" font-size="20" fill="black">
+      <tspan>Hey, I'm Vishwanath!</tspan>
+      <animate 
+        attributeName="x" 
+        from="70" 
+        to="250" 
+        dur="3s" 
+        repeatCount="indefinite" 
+        begin="0s"
+      />
+    </text>
+
+    <!-- Rotating Circle -->
+    <circle cx="200" cy="150" r="20" fill="orange">
+      <animateTransform 
+        attributeName="transform" 
+        attributeType="XML" 
+        type="rotate" 
+        from="0 200 150" 
+        to="360 200 150" 
+        dur="3s" 
+        repeatCount="indefinite"
+      />
+    </circle>
+  </svg>
+</p><p align="center">
   <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
     <rect x="50" y="50" width="300" height="100" fill="lightblue">
       <animate attributeName="x" from="50" to="150" dur="2s" repeatCount="indefinite" />
