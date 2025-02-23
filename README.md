@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishwanath</h1>
-<h3 align="center" style="color: blue;">A passionate developer and lifelong learner</h3>
+
 <h1 align="center">Hi 👋, I'm Vishwanath</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Waving Hand GIF" width="100"/>
