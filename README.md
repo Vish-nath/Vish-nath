@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="50" alt="Hello" />, I'm Vishwanath</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="80" alt="Hello" />, I'm Vishwanath</h1>
 
 
 <p align="center">
