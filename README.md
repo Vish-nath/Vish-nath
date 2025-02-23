@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif, I'm Vishwanath</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Waving Hand GIF" width="100"/>
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding GIF" />
