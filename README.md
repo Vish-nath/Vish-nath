@@ -69,6 +69,5 @@
       <animate attributeName="x" from="50" to="150" dur="2s" repeatCount="indefinite" />
       <animate attributeName="fill" from="lightblue" to="lightgreen" dur="2s" repeatCount="indefinite" />
     </rect>
-    <text x="70" y="120" font-size="20" fill="black">Hello, I'm Vishwanath!</text>
-  </svg>
+  
 </p>
