@@ -30,7 +30,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
 </p>
  <img
-src="https://images.app.goo.gl/AoLsVKNNrk2aiWc96.png"
+src="https://img.icons8.com/color/48/000000/python.png"
 alt="python" />
 
 ---
