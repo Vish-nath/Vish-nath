@@ -40,7 +40,6 @@ src="https://img.icons8.com/color/48/000000/python.png" alt="python" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwanath&layout=compact&theme=radical" alt="Top Languages" 
 <img
 src="https://img.icons8.com/color/48/000000/python.png" alt="python" />
-/>
 </p>
 
 ---
