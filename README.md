@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="3000" alt="Coding GIF" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=32A2F2&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+code+and;sleep+a+lot!" alt="Typing SVG" />
 </p>
 
