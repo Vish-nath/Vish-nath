@@ -15,7 +15,7 @@
 ---
 
 ## 🌟 About Me
-- 🌱 I’m currently learning **Java and React.js**
+- 🌱 I’m currently learning **Java, Python and React.js**
 - 📫 Reach me at **vishwahesamani@gmail.com**
 - ⚡ Fun fact: I love coding and sleep!
 
@@ -35,7 +35,7 @@ src="https://img.icons8.com/color/48/000000/python.png" alt="python" />
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishwanath&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishwanath?show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwanath&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwanath&layout=compact&theme=radical" alt="Top Languages" />
 </p>
