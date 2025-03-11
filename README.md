@@ -37,7 +37,7 @@ src="https://img.icons8.com/color/48/000000/python.png" alt="python" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishwanath&show_icons=true&theme=radical" alt="GitHub Stats" />
  <img
-src="https://streak-stats.demolab.com/?user=Vishwanath-Hesamani" alt="GitHub streaks" />
+src="https://streak-stats.demolab.com/?user=Vishwanath-Hesamani&show_icons=true&theme=radical" alt="GitHub streaks" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwanath&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
