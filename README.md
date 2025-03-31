@@ -15,7 +15,7 @@
 ---
 
 ## 🌟 About Me
-- 🌱 I’m currently learning **Java, Python and React.js**
+- 🌱 I’m currently learning **Java, Python and React.js, HTML, CSS, JS.**
 - 📫 Reach me at **vishwahesamani@gmail.com**
 - ⚡ Fun fact: I love coding and sleep!
 
