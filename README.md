@@ -5,6 +5,8 @@
 
 <h1 align="center">
   Hi, I'm Vishwanath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" />
+
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Header Banner" />
 </h1>
 
 <p align="center">
