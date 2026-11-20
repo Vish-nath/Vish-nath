@@ -2,10 +2,10 @@
   <img src="assets/header.svg" alt="Vishwanath: Cybersecurity and Software Development" width="100%" />
 </div>
 
-<br />
-
 <p align="center">
-  <b>Cybersecurity</b> &nbsp;·&nbsp; <b>Security Engineering</b> &nbsp;·&nbsp; <b>Software Development</b>
+  <a href="https://github.com/Vish-nath">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Security+Engineering;Software+Development;Building+secure+digital+systems" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -15,23 +15,23 @@
 </p>
 
 <p align="center">
-  <a href="#about">About</a> &nbsp;·&nbsp;
-  <a href="#current-focus">Focus</a> &nbsp;·&nbsp;
-  <a href="#technology-stack">Stack</a> &nbsp;·&nbsp;
-  <a href="#projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#activity">Activity</a> &nbsp;·&nbsp;
-  <a href="#contact">Contact</a>
+  <a href="#-about">About</a> &nbsp;·&nbsp;
+  <a href="#-current-focus">Focus</a> &nbsp;·&nbsp;
+  <a href="#-technology-stack">Stack</a> &nbsp;·&nbsp;
+  <a href="#-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#-activity">Activity</a> &nbsp;·&nbsp;
+  <a href="#-contact">Contact</a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## About
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand"> About
 
 I am a developer with a growing focus on cybersecurity and security engineering. I like understanding how systems work beneath the surface, because that is where both vulnerabilities and sound design decisions live. My aim is to build software that is secure by design rather than patched after the fact.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## Current Focus
+## 🎯 Current Focus
 
 | Area | What I am working on |
 | :--- | :--- |
@@ -40,9 +40,9 @@ I am a developer with a growing focus on cybersecurity and security engineering.
 | **Linux and security tools** | Command-line workflows and the tools used in security work |
 | **Secure coding** | Writing software that resists common vulnerabilities |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## Technology Stack
+## ⚙️ Technology Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -50,9 +50,9 @@ I am a developer with a growing focus on cybersecurity and security engineering.
 | **Web** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" /> |
 | **Environment** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## Projects
+## 🚀 Projects
 
 Selected work is available on my [repositories page](https://github.com/Vish-nath?tab=repositories).
 
@@ -67,9 +67,9 @@ Replace the placeholder rows below and delete the comment markers to publish thi
 | [project-three](https://github.com/Vish-nath/project-three) | One sentence on what it does and the problem it solves. | JavaScript |
 -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## Activity
+## 📈 Activity
 
 <p align="center">
   <picture>
@@ -88,9 +88,9 @@ Replace the placeholder rows below and delete the comment markers to publish thi
   </p>
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## Contact
+## 📬 Contact
 
 <p align="center">
   <a href="mailto:vishwahesamani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
