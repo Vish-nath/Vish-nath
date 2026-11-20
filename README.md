@@ -27,7 +27,7 @@
 
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="80" alt="Coffee" /> About
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="55" alt="Coffee" /> About
 <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUyMDMzMzksIm5iZiI6MTc5NTIwMzAzOSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTIwVDE5MzAzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQyZDg4NzAyZjBjZmExODY1MWM3MTI0N2U4NWJmMzZhOWNhOTA1YjhiNWY1YTZhMTc4ZThlMzBmZWVmZGE3MmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9._0TC0GGJ2uVDnlPrI1xUngO1TGNxNkWCo0MyezM8TKo" width="100" alt="hola gif">
 
 I am a developer with a growing focus on cybersecurity and security engineering. I like understanding how systems work beneath the surface, because that is where both vulnerabilities and sound design decisions live. My aim is to build software that is secure by design rather than patched after the fact.
