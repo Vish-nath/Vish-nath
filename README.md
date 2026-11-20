@@ -100,5 +100,5 @@ Replace the placeholder rows below and delete the comment markers to publish thi
 <p align="center"><sub>Thank you for visiting.</sub></p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="120" alt="GitHub Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="GitHub Animation" />
 </p>
