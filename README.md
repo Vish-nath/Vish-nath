@@ -98,3 +98,7 @@ Replace the placeholder rows below and delete the comment markers to publish thi
 </p>
 
 <p align="center"><sub>Thank you for visiting.</sub></p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Coding GIF" />
+</p>
