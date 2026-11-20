@@ -96,7 +96,7 @@ Replace the placeholder rows below and delete the comment markers to publish thi
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:vishwahesamani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:vishwahesamani@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/vishwanath-h-300b63251/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40" alt="LinkedIn" /></a>
 </p>
 
