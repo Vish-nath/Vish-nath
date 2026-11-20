@@ -34,10 +34,6 @@ I am a developer with a growing focus on cybersecurity and security engineering.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80" alt="Current Focus banner" />
-</p>
-
 ## 🎯 Current Focus
 
 | Area | What I am working on |
