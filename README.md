@@ -90,14 +90,6 @@ Replace the placeholder rows below and delete the comment markers to publish thi
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 🐳 Ocean Navigation
-
-<p align="center">
-  <img src="assets/whale.svg" alt="Swimming Whale Animation" width="100%" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-
 ## 📬 Contact
 
 <p align="center">
