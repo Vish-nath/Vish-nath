@@ -75,7 +75,7 @@
     </rect>
 
     <!-- name -->
-    <text x="298" y="168" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="url(#accent)">Vishwanath</text>
+    <text x="298" y="168" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="url(#accent)">Vishwanath P H</text>
 
     <!-- underline that draws itself in -->
     <rect x="300" y="184" width="0" height="3" rx="1.5" fill="url(#accent)">
