@@ -42,6 +42,12 @@ I am a developer with a growing focus on cybersecurity and security engineering.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
+<p align="center">
+  <img src="assets/cyber-banner.svg" alt="Cybersecurity & Code Animation" width="100%" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
 ## ⚙️ Technology Stack
 
 | Category | Technologies |
