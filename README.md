@@ -94,7 +94,7 @@ Replace the placeholder rows below and delete the comment markers to publish thi
 
 <p align="center">
   <a href="mailto:vishwahesamani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/vishwanath-h-300b63251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/vishwanath-h-300b63251/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40" alt="LinkedIn" /></a>
 </p>
 
 <p align="center"><sub>Thank you for visiting.</sub></p>
