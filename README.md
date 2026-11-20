@@ -1,88 +1,100 @@
-
 <div align="center">
-  <img src="https://github.com/Vish-nath.png" width="180" alt="Vishwanath profile avatar" />
+  <img src="assets/header.svg" alt="Vishwanath: Cybersecurity and Software Development" width="100%" />
 </div>
 
-<h1 align="center">
-  Hi, I'm Vishwanath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" />
-
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Header Banner" />
-</h1>
+<br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Cybersecurity+enthusiast;Developer+%7C+Problem+solver;Learning+Security+Engineering;Building+secure+digital+systems" alt="Typing SVG" />
+  <b>Cybersecurity</b> &nbsp;·&nbsp; <b>Security Engineering</b> &nbsp;·&nbsp; <b>Software Development</b>
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Cyber-Security-00D4FF?style=for-the-badge&logo=shield&logoColor=white" alt="Cyber security badge" />
-  <img src="https://img.shields.io/badge/Focus-Security%20Engineering-FF6B6B?style=for-the-badge&logo=security&logoColor=white" alt="Security engineering badge" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-34D399?style=for-the-badge" alt="Always learning badge" />
-</div>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vish-nath&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
-  <img src="https://img.shields.io/github/followers/Vish-nath?label=Followers&logo=github&style=flat&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Domain-Cybersecurity-00D4FF?style=flat-square&logo=kalilinux&logoColor=white" alt="Domain: Cybersecurity" />
+  <img src="https://img.shields.io/badge/Focus-Security%20Engineering-7C5CFF?style=flat-square" alt="Focus: Security Engineering" />
+  <img src="https://img.shields.io/badge/Stack-Java%20%7C%20Python%20%7C%20JavaScript-34D399?style=flat-square" alt="Stack: Java, Python, JavaScript" />
 </p>
 
----
-
-## 🌐 About Me
-
-- 🔐 Currently learning and exploring **Cyber Security** and **Security Engineering**.
-- 💻 I enjoy building and understanding how systems work behind the scenes.
-- 📫 Reach me at **vishwahesamani@gmail.com**
-- ⚡ Fun fact: I love coding, learning, and sleeping like a pro after deep work.
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#current-focus">Focus</a> &nbsp;·&nbsp;
+  <a href="#technology-stack">Stack</a> &nbsp;·&nbsp;
+  <a href="#projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#activity">Activity</a> &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-## 🔥 Current Focus
+## About
 
-- 🧠 Learning **network security**, **ethical hacking basics**, and defensive security concepts.
-- 🧪 Exploring **Linux**, **security tools**, and **secure coding practices**.
-- 🚀 Improving as a developer while building a strong cyber mindset.
+I am a developer with a growing focus on cybersecurity and security engineering. I like understanding how systems work beneath the surface, because that is where both vulnerabilities and sound design decisions live. My aim is to build software that is secure by design rather than patched after the fact.
 
 ---
 
-## 📊 GitHub Stats
+## Current Focus
+
+| Area | What I am working on |
+| :--- | :--- |
+| **Network security** | Foundations of network security and defensive concepts |
+| **Ethical hacking** | Fundamentals of ethical hacking |
+| **Linux and security tools** | Command-line workflows and the tools used in security work |
+| **Secure coding** | Writing software that resists common vulnerabilities |
+
+---
+
+## Technology Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> |
+| **Web** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" /> |
+| **Environment** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> |
+
+---
+
+## Projects
+
+Selected work is available on my [repositories page](https://github.com/Vish-nath?tab=repositories).
+
+<!--
+Pin three to six of your best repositories on your profile, then list them here.
+Replace the placeholder rows below and delete the comment markers to publish this table.
+
+| Project | Description | Stack |
+|---|---|---|
+| [project-one](https://github.com/Vish-nath/project-one) | One sentence on what it does and the problem it solves. | Python |
+| [project-two](https://github.com/Vish-nath/project-two) | One sentence on what it does and the problem it solves. | Java |
+| [project-three](https://github.com/Vish-nath/project-three) | One sentence on what it does and the problem it solves. | JavaScript |
+-->
+
+---
+
+## Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vish-nath&theme=tokyonight" alt="GitHub stats summary" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vish-nath&layout=compact&theme=tokyonight" alt="Top languages by code bytes" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vish-nath/Vish-nath/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vish-nath/Vish-nath/output/github-snake.svg" />
+    <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/Vish-nath/Vish-nath/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
+
+<details>
+  <summary><b>GitHub statistics</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vish-nath&theme=tokyonight" alt="GitHub statistics summary" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vish-nath&theme=tokyonight" alt="Repositories per language" height="180" />
+  </p>
+</details>
 
 ---
 
-## 🌍 Connect with Me
+## Contact
 
 <p align="center">
-  <a href="mailto:vishwahesamani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishwanath-h-300b63251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100079006017428&mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  <a href="mailto:vishwahesamani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/vishwanath-h-300b63251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 </p>
 
----
-
-<div align="center">
-  <h3>✨ Special Thanks for Visiting! ✨</h3>
-</div>
-
----
+<p align="center"><sub>Thank you for visiting.</sub></p>

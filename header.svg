@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc" xmlns:c2pa="http://c2pa.org/manifest">
+  <title id="title">Vishwanath: Cybersecurity and Software Development</title>
+  <desc id="desc">Animated banner showing a terminal-style introduction with rotating focus areas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0F1F"/>
+      <stop offset="1" stop-color="#10233F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00D4FF"/>
+      <stop offset="1" stop-color="#7C5CFF"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00D4FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00D4FF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#00D4FF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1E3354" stroke-width="1" opacity="0.55"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1000" height="280" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="280" fill="url(#bg)"/>
+    <rect width="1000" height="280" fill="url(#grid)"/>
+
+    <!-- falling binary columns -->
+    <g fill="#00D4FF" opacity="0.28" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
+      <text><tspan x="800" y="20">1</tspan><tspan x="800" y="40">0</tspan><tspan x="800" y="60">1</tspan><tspan x="800" y="80">0</tspan><tspan x="800" y="100">0</tspan><tspan x="800" y="120">0</tspan><tspan x="800" y="140">1</tspan><tspan x="800" y="160">0</tspan><tspan x="800" y="180">0</tspan><tspan x="800" y="200">0</tspan><tspan x="800" y="220">0</tspan><tspan x="800" y="240">1</tspan><tspan x="800" y="260">1</tspan><tspan x="800" y="280">0</tspan></text>
+      <animateTransform attributeName="transform" type="translate" from="0 -290" to="0 290" dur="9s" begin="0.0s" repeatCount="indefinite"/>
+    </g>
+    <g fill="#00D4FF" opacity="0.28" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
+      <text><tspan x="838" y="20">0</tspan><tspan x="838" y="40">0</tspan><tspan x="838" y="60">1</tspan><tspan x="838" y="80">0</tspan><tspan x="838" y="100">0</tspan><tspan x="838" y="120">0</tspan><tspan x="838" y="140">0</tspan><tspan x="838" y="160">1</tspan><tspan x="838" y="180">0</tspan><tspan x="838" y="200">0</tspan><tspan x="838" y="220">0</tspan><tspan x="838" y="240">0</tspan><tspan x="838" y="260">1</tspan><tspan x="838" y="280">1</tspan></text>
+      <animateTransform attributeName="transform" type="translate" from="0 -290" to="0 290" dur="12s" begin="1.5s" repeatCount="indefinite"/>
+    </g>
+    <g fill="#00D4FF" opacity="0.28" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
+      <text><tspan x="876" y="20">0</tspan><tspan x="876" y="40">0</tspan><tspan x="876" y="60">1</tspan><tspan x="876" y="80">0</tspan><tspan x="876" y="100">0</tspan><tspan x="876" y="120">0</tspan><tspan x="876" y="140">1</tspan><tspan x="876" y="160">0</tspan><tspan x="876" y="180">0</tspan><tspan x="876" y="200">0</tspan><tspan x="876" y="220">0</tspan><tspan x="876" y="240">1</tspan><tspan x="876" y="260">1</tspan><tspan x="876" y="280">1</tspan></text>
+      <animateTransform attributeName="transform" type="translate" from="0 -290" to="0 290" dur="8s" begin="0.6s" repeatCount="indefinite"/>
+    </g>
+    <g fill="#00D4FF" opacity="0.28" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
+      <text><tspan x="914" y="20">1</tspan><tspan x="914" y="40">1</tspan><tspan x="914" y="60">1</tspan><tspan x="914" y="80">1</tspan><tspan x="914" y="100">0</tspan><tspan x="914" y="120">0</tspan><tspan x="914" y="140">0</tspan><tspan x="914" y="160">0</tspan><tspan x="914" y="180">1</tspan><tspan x="914" y="200">1</tspan><tspan x="914" y="220">1</tspan><tspan x="914" y="240">1</tspan><tspan x="914" y="260">1</tspan><tspan x="914" y="280">0</tspan></text>
+      <animateTransform attributeName="transform" type="translate" from="0 -290" to="0 290" dur="11s" begin="2.2s" repeatCount="indefinite"/>
+    </g>
+    <g fill="#00D4FF" opacity="0.28" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">
+      <text><tspan x="952" y="20">0</tspan><tspan x="952" y="40">1</tspan><tspan x="952" y="60">0</tspan><tspan x="952" y="80">1</tspan><tspan x="952" y="100">0</tspan><tspan x="952" y="120">1</tspan><tspan x="952" y="140">1</tspan><tspan x="952" y="160">0</tspan><tspan x="952" y="180">0</tspan><tspan x="952" y="200">1</tspan><tspan x="952" y="220">1</tspan><tspan x="952" y="240">1</tspan><tspan x="952" y="260">1</tspan><tspan x="952" y="280">1</tspan></text>
+      <animateTransform attributeName="transform" type="translate" from="0 -290" to="0 290" dur="10s" begin="1.0s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- scanning line -->
+    <rect x="0" y="-60" width="1000" height="60" fill="url(#scan)">
+      <animate attributeName="y" from="-60" to="280" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- shield emblem with pulse rings -->
+    <circle cx="190" cy="146" r="70" fill="none" stroke="#00D4FF" stroke-width="2" opacity="0">
+      <animate attributeName="r" values="70;110" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="190" cy="146" r="70" fill="none" stroke="#7C5CFF" stroke-width="2" opacity="0">
+      <animate attributeName="r" values="70;110" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M190 70 L250 92 V140 C250 180 222 208 190 222 C158 208 130 180 130 140 V92 Z"
+          fill="#0E1B33" stroke="url(#accent)" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M177 142 V132 a13 13 0 0 1 26 0 V142" fill="none" stroke="#00D4FF" stroke-width="4" stroke-linecap="round"/>
+    <rect x="168" y="142" width="44" height="34" rx="6" fill="url(#accent)"/>
+    <circle cx="190" cy="156" r="4.5" fill="#0A0F1F"/>
+    <rect x="188" y="158" width="4" height="10" rx="2" fill="#0A0F1F"/>
+
+    <!-- terminal prompt with blinking cursor -->
+    <text x="300" y="100" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" fill="#34D399">$ whoami</text>
+    <rect x="391" y="85" width="10" height="19" fill="#34D399">
+      <animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- name -->
+    <text x="298" y="168" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="url(#accent)">Vishwanath</text>
+
+    <!-- underline that draws itself in -->
+    <rect x="300" y="184" width="0" height="3" rx="1.5" fill="url(#accent)">
+      <animate attributeName="width" from="0" to="320" dur="1.4s" begin="0s" fill="freeze"/>
+    </rect>
+
+    <!-- rotating focus areas -->
+    <text x="300" y="228" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#C9D6EE" opacity="0">
+      &gt; Cybersecurity | Security Engineering
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.30;0.36;1" dur="9s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="300" y="228" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#C9D6EE" opacity="0">
+      &gt; Developer | Problem Solver
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.30;0.36;1" dur="9s" begin="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="300" y="228" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#C9D6EE" opacity="0">
+      &gt; Building secure digital systems
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.30;0.36;1" dur="9s" begin="6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjYTIxMTNhOC04MDRlLTRjMjQtOGZmYS1mNDk1Y2FhNDllNjAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaGhCX1W3GDSwP3ibv20cw3YAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmNmY5ZGJhYy00OWRlLTRlODQtYmIyNy1kNDgzZTgwMjFiNDFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo8OyoCi8Kb9SSgmka1RuAyQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggKDhCuBbq80twGRUE2ura7spXUqfc+OXSBCDyYdWKev2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIfgAlvPsJxUAGZ0Q4Fkp0wAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIKwf7vmdRfsAOUzFNSDBGmjDsHCMLKpwN+/5MlQMYFfwZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GSC3Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmNhMjExM2E4LTgwNGUtNGMyNC04ZmZhLWY0OTVjYWE0OWU2MC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjM4YzE1NWNiLTI5NDMtNGFlNS05M2Q2LWE5M2VmMmQ2YmY5ZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAoOEK4FurzS3AZFQTa6truyldSp9z45dIEIPJh1Yp6/aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgghoZSWhTDlrq+eGR5e16oK9GfX+xwh13BbG2pq82gObOiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggHf5C0pPgOxB3XJHa+mfYD/uRqJQrX1Kc3L1joZTfxFl0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDSzP4aYi3Gu1V+0H6mCSz7othDt/AJTTYA28YtDzLA2m6jKpkWoZEko9U8KXk7VTXPdsyhEJNOpZl6tODV5bto=</c2pa:manifest></metadata></svg>
