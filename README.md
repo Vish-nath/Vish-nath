@@ -100,7 +100,13 @@ Replace the placeholder rows below and delete the comment markers to publish thi
   <a href="https://www.linkedin.com/in/vishwanath-h-300b63251/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn" /></a>
 </p>
 
-<p align="center"><sub>Thank you for visiting.</sub></p>
+<div align="center">
+<pre>
+╭─────────────────────────────────────────╮
+│   Thank you for visiting.  //  exit 0   │
+╰─────────────────────────────────────────╯
+</pre>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="120" alt="Animated Mac GIF" />
